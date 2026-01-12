@@ -1,0 +1,6 @@
+gene_id,cds_start,cds_end,gene,product,protein_id
+NC_019914.1:16482-17621,16481,17621,?,terminase large subunit,YP_007236598.1
+NC_019914.1:16482-17621,17621,19073,?,portal protein,YP_007236599.1
+NC_019914.1:29102-30352,29101,30352,?,tail protein with endopeptidase domain,YP_007236612.1
+NC_019914.1:30363-32237,30362,32237,?,zinc carboxypeptidase,YP_007236613.1
+NC_019914.1:38194-39930,38193,39930,?,endolysin,YP_007236621.1

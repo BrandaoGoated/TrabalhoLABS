@@ -1,0 +1,5 @@
+gene_id,len_nt,len_aa,top_hit_accession,top_hit_def,top_hit_evalue,top_hit_percent_id
+NC_019914.1:16482-17621,1140,379,YP_007236598,terminase large subunit [Staphylococcus phage StB27] >gb|AFD22190.1| TerL [Staphylococcus phage StB27],0.0,100.0
+NC_019914.1:29102-30352,1251,416,YP_007236612,tail protein with endopeptidase domain [Staphylococcus phage StB27] >gb|AFD22204.1| endopeptidase [Staphylococcus phage StB27],0.0,100.0
+NC_019914.1:30363-32237,1875,624,YP_007236613,zinc carboxypeptidase [Staphylococcus phage StB27] >gb|AFD22205.1| Zn carboxypeptidase [Staphylococcus phage StB27],0.0,100.0
+NC_019914.1:38194-39930,1737,578,YP_007236621,endolysin [Staphylococcus phage StB27] >gb|AFD22213.1| lysine [Staphylococcus phage StB27],0.0,100.0
